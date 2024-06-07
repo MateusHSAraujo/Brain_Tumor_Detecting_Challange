@@ -1,0 +1,9 @@
+batch_size: 5
+cpu: false
+experiment_name: Brain_Tumor_EfficientNet_v6
+lr: 2.5e-05
+max_epochs: 700
+nin: 1
+nout: 2
+nworkers: 8
+wd: 1.0e-05
